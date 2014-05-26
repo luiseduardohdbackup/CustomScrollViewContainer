@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5A61FE6A-448A-43D8-8DFC-F951C57D21F5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CustomScrollViewContainer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CB1B1B88-1C44-4844-B893-04BB0B33829E</key>
+		<string>https://github.com/NjrSea/CustomScrollViewContainer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CustomScrollViewContainer/CustomScrollViewContainer.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CB1B1B88-1C44-4844-B893-04BB0B33829E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/NjrSea/CustomScrollViewContainer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CB1B1B88-1C44-4844-B893-04BB0B33829E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CB1B1B88-1C44-4844-B893-04BB0B33829E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CustomScrollViewContainer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
